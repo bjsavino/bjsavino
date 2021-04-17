@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Devs 👋
+
+- 🔭 I’m currently working on C# .Net
+- 🌱 I’m currently learning Node.Js, ReactJs
+- 💬 Ask me about C#
+
 
 <!--
 **bjsavino/bjsavino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
